@@ -5,21 +5,24 @@ The PizzaHub SQL Analysis project showcases comprehensive data analysis techniqu
 
 # Database Structure:
 
-orders: Stores information about each order, including date and time.
-order_details: Links orders with the pizzas and their quantities.
-pizzas: Contains details about pizzas, such as size and price.
-pizza_types: Describes the categories and names of pizzas.
-Query Levels:
+#orders: Stores information about each order, including date and time.
+#order_details: Links orders with the pizzas and their quantities.
+#pizzas: Contains details about pizzas, such as size and price.
+#pizza_types: Describes the categories and names of pizzas.
 
-Basic Queries: Simple analyses such as total orders, revenue, and most ordered pizza size.
-Intermediate Queries: Group-based analyses like order distribution by category and average daily sales.
-Advanced Queries: Complex calculations like percentage revenue contribution and ranking pizzas by revenue.
-Insights Delivered:
+#Query Levels:
+
+*Basic Queries: Simple analyses such as total orders, revenue, and most ordered pizza size.
+*Intermediate Queries: Group-based analyses like order distribution by category and average daily sales.
+*Advanced Queries: Complex calculations like percentage revenue contribution and ranking pizzas by revenue.
+
+#Insights Delivered:
 
 Identify the most popular pizzas and categories based on orders and revenue.
 Understand order patterns by size, category, and time of day.
 Analyze cumulative revenue and percentage contributions for strategic decision-making.
-Purpose:
+
+#Purpose:
 The project provides a foundation for retail and restaurant businesses to understand customer preferences and optimize their menu offerings and pricing strategies.
 
 # Summary of the PizzaHub SQL Project
